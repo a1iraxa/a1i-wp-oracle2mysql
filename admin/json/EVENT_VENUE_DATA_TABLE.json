@@ -1,0 +1,281 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "VENUE_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "CITY_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "VENUE_TITLE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "VENUE_DESC",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "SEAT_CAPACITY",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "SORT_ORDER",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "LOCATION_ID",
+          "type" : "NUMBER"
+        }
+      ],
+      "items" : [
+        {
+          "venue_id" : 8,
+          "city_id" : 3,
+          "venue_title" : "Bab-ul Shams",
+          "venue_desc" : "",
+          "seat_capacity" : 500,
+          "sort_order" : 1,
+          "location_id" : 1
+        },
+        {
+          "venue_id" : 21,
+          "city_id" : 1,
+          "venue_title" : "Hall 4 (Conference Room)",
+          "venue_desc" : "",
+          "seat_capacity" : 144,
+          "sort_order" : 4,
+          "location_id" : 6
+        },
+        {
+          "venue_id" : 20,
+          "city_id" : 1,
+          "venue_title" : "Hall 3",
+          "venue_desc" : "",
+          "seat_capacity" : 200,
+          "sort_order" : 3,
+          "location_id" : 6
+        },
+        {
+          "venue_id" : 14,
+          "city_id" : 3,
+          "venue_title" : "Auditorium",
+          "venue_desc" : "",
+          "seat_capacity" : 400,
+          "sort_order" : 5,
+          "location_id" : 2
+        },
+        {
+          "venue_id" : 19,
+          "city_id" : 1,
+          "venue_title" : "Hall 2",
+          "venue_desc" : "",
+          "seat_capacity" : 300,
+          "sort_order" : 2,
+          "location_id" : 6
+        },
+        {
+          "venue_id" : 7,
+          "city_id" : 2,
+          "venue_title" : "Beach Luxury Hotel",
+          "venue_desc" : "",
+          "seat_capacity" : 1500,
+          "sort_order" : 8,
+          "location_id" : ""
+        },
+        {
+          "venue_id" : 5,
+          "city_id" : 2,
+          "venue_title" : "Parking lot, Beach Luxury Hotel",
+          "venue_desc" : "",
+          "seat_capacity" : 500,
+          "sort_order" : 1,
+          "location_id" : ""
+        },
+        {
+          "venue_id" : 1,
+          "city_id" : 2,
+          "venue_title" : "Jasmine Hall, Beach Luxury Hotel",
+          "venue_desc" : "",
+          "seat_capacity" : 300,
+          "sort_order" : 3,
+          "location_id" : ""
+        },
+        {
+          "venue_id" : 3,
+          "city_id" : 2,
+          "venue_title" : "Aquarius Hall",
+          "venue_desc" : "",
+          "seat_capacity" : 300,
+          "sort_order" : 4,
+          "location_id" : 14
+        },
+        {
+          "venue_id" : 4,
+          "city_id" : 2,
+          "venue_title" : "Sunflower Hall",
+          "venue_desc" : "",
+          "seat_capacity" : 100,
+          "sort_order" : 6,
+          "location_id" : 14
+        },
+        {
+          "venue_id" : 2,
+          "city_id" : 2,
+          "venue_title" : "Tulip Hall, Beach Luxury Hotel",
+          "venue_desc" : "",
+          "seat_capacity" : 150,
+          "sort_order" : 5,
+          "location_id" : ""
+        },
+        {
+          "venue_id" : 6,
+          "city_id" : 2,
+          "venue_title" : "Patio, Beach Luxury Hotel",
+          "venue_desc" : "",
+          "seat_capacity" : 100,
+          "sort_order" : 2,
+          "location_id" : ""
+        },
+        {
+          "venue_id" : 11,
+          "city_id" : 3,
+          "venue_title" : "Daffodils",
+          "venue_desc" : "",
+          "seat_capacity" : 150,
+          "sort_order" : 4,
+          "location_id" : 1
+        },
+        {
+          "venue_id" : 13,
+          "city_id" : 3,
+          "venue_title" : "Cafeteria",
+          "venue_desc" : "",
+          "seat_capacity" : 500,
+          "sort_order" : 7,
+          "location_id" : 4
+        },
+        {
+          "venue_id" : 15,
+          "city_id" : 3,
+          "venue_title" : "Auditorium",
+          "venue_desc" : "",
+          "seat_capacity" : 500,
+          "sort_order" : 6,
+          "location_id" : 3
+        },
+        {
+          "venue_id" : 16,
+          "city_id" : 3,
+          "venue_title" : "Auditorium",
+          "venue_desc" : "",
+          "seat_capacity" : 300,
+          "sort_order" : 8,
+          "location_id" : 4
+        },
+        {
+          "venue_id" : 17,
+          "city_id" : 3,
+          "venue_title" : "Conference Room",
+          "venue_desc" : "",
+          "seat_capacity" : 100,
+          "sort_order" : 9,
+          "location_id" : 2
+        },
+        {
+          "venue_id" : 22,
+          "city_id" : 3,
+          "venue_title" : "Hall",
+          "venue_desc" : "",
+          "seat_capacity" : 1000,
+          "sort_order" : 1,
+          "location_id" : 7
+        },
+        {
+          "venue_id" : 9,
+          "city_id" : 3,
+          "venue_title" : "Dome",
+          "venue_desc" : "",
+          "seat_capacity" : 265,
+          "sort_order" : 2,
+          "location_id" : 1
+        },
+        {
+          "venue_id" : 10,
+          "city_id" : 3,
+          "venue_title" : "Fairways",
+          "venue_desc" : "",
+          "seat_capacity" : 220,
+          "sort_order" : 3,
+          "location_id" : 1
+        },
+        {
+          "venue_id" : 18,
+          "city_id" : 1,
+          "venue_title" : "Hall 1 (Auditorium)",
+          "venue_desc" : "",
+          "seat_capacity" : 800,
+          "sort_order" : 1,
+          "location_id" : 6
+        },
+        {
+          "venue_id" : 23,
+          "city_id" : 3,
+          "venue_title" : "A’Level Johar Town Branch",
+          "venue_desc" : "",
+          "seat_capacity" : 10000,
+          "sort_order" : 1,
+          "location_id" : 7
+        },
+        {
+          "venue_id" : 24,
+          "city_id" : 1,
+          "venue_title" : "Beaconhouse F-7/4 Campus Islamabad",
+          "venue_desc" : "",
+          "seat_capacity" : 10000,
+          "sort_order" : 1,
+          "location_id" : 11
+        },
+        {
+          "venue_id" : 25,
+          "city_id" : 1,
+          "venue_title" : "Beaconhouse F-7/4 Campus Islamabad",
+          "venue_desc" : "",
+          "seat_capacity" : 100000,
+          "sort_order" : 1,
+          "location_id" : 11
+        },
+        {
+          "venue_id" : 26,
+          "city_id" : 3,
+          "venue_title" : "Beaconhouse Newlands",
+          "venue_desc" : "",
+          "seat_capacity" : 1000,
+          "sort_order" : 1,
+          "location_id" : 3
+        },
+        {
+          "venue_id" : 27,
+          "city_id" : 2,
+          "venue_title" : "Jasmine Hall",
+          "venue_desc" : "",
+          "seat_capacity" : 350,
+          "sort_order" : 1,
+          "location_id" : 14
+        },
+        {
+          "venue_id" : 28,
+          "city_id" : 2,
+          "venue_title" : "Princess Hall",
+          "venue_desc" : "",
+          "seat_capacity" : 70,
+          "sort_order" : 4,
+          "location_id" : 14
+        }
+      ]
+    }
+  ]
+}

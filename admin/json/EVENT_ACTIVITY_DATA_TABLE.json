@@ -1,0 +1,2675 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "ACTIVITY_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "EVENT_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "CITY_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "ACTIVITY_TITLE",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "ACTIVITY_DESC",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "DURATION",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "ACTIVITY_TYPE_ID",
+          "type" : "NUMBER"
+        }
+      ],
+      "items" : [
+        {
+          "activity_id" : 77,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Keynote Address",
+          "activity_desc" : "",
+          "duration" : 45,
+          "activity_type_id" : 11
+        },
+        {
+          "activity_id" : 114,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Rethinking Educational Leadership in a New Age",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 119,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "STEM: Teaching it Well (Science, Technology, Engineering and Mathematics)",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 118,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Education for the Future: Low Technology High Humanity Schools",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 120,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Metacognition as the Future for Learning",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 121,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Wo Subah Kabhi Tou Aye Gi",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 125,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Information and Youth: The Challenges of Media Engagement",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 129,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Impressionable Minds: How Film and Media are Shaping our Future Generation",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 130,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Language & Identity: Hamaari Zabaan, Hamaari Pehchaan",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 132,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "What Your Child is Not Telling You",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 135,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Learning Without Limits: Creating Inclusive Classrooms",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 138,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "An Evening with Zia Mohyeddin",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 155,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Team Talk: Spotlight on the Pakistan Women`s Football Team",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 158,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Cyber Crime Bill",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 159,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "As the World Holds its Breath: The Oval Office and Global Security",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 160,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Invisible Hands: If Media Controls Global Thinking, Who Controls Global Media? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 163,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Is Moral Policing Necessary?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 165,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Should Curriculum be Standardised Across the Country?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 170,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Make Your Own Video Game : In-collaboration with We R Play",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 172,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "As the World Holds its Breath: The Oval Office and Global Security",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 173,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Beyond Public & Private: Education Partnerships that Change Futures ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 180,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Daastaan Goi",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 190,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "In conversation with: Hina Rabbani Khar",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 8
+        },
+        {
+          "activity_id" : 204,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "National Anthem",
+          "activity_desc" : "",
+          "duration" : 5,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 206,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Speech by the Chief Guest",
+          "activity_desc" : "",
+          "duration" : 20,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 207,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "In conversation with Fawad Khan",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 11
+        },
+        {
+          "activity_id" : 212,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "How Grades Affect Learning ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 255,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Address by the Chief Guest",
+          "activity_desc" : "",
+          "duration" : 20,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 258,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Mushaira",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 261,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Comedy Session with Shafaat Ali",
+          "activity_desc" : "",
+          "duration" : 30,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 263,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Feedback and Feedforward ",
+          "activity_desc" : "Zeeshan Hassan",
+          "duration" : 60,
+          "activity_type_id" : 16
+        },
+        {
+          "activity_id" : 264,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Straight talk on written communication",
+          "activity_desc" : "Zahra Saleha Ahmed",
+          "duration" : 60,
+          "activity_type_id" : 16
+        },
+        {
+          "activity_id" : 265,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Student Success Toolkit: Managing Transititions",
+          "activity_desc" : "Ambreen Ishaque",
+          "duration" : 60,
+          "activity_type_id" : 16
+        },
+        {
+          "activity_id" : 266,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Enriching Language Learning in a Middle School Classroom",
+          "activity_desc" : "Mussarat Mashaddi",
+          "duration" : 60,
+          "activity_type_id" : 16
+        },
+        {
+          "activity_id" : 269,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Harnessing the Power of Collaboration",
+          "activity_desc" : "Bushra Pervaiz",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 277,
+          "event_id" : 7,
+          "city_id" : 1,
+          "activity_title" : "Connectivism: Rethinking Learning for a Digital Age",
+          "activity_desc" : "Sameer Toor",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 75,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Address by the Chairperson",
+          "activity_desc" : "",
+          "duration" : 15,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 76,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Address by the Chief Guest",
+          "activity_desc" : "",
+          "duration" : 15,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 79,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Break",
+          "activity_desc" : "",
+          "duration" : 170,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 81,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "STEM: Teaching it well",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 116,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Build Your Own Bot",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 142,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Your Children`s Online and Offline Safety",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 140,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "25 Million Broken Promises",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 147,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Invisible Hands: If Media Controls Global Thinking, Who Controls Global Media? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 152,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Standardise the Curriculum Across the Country!",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 156,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Moving Towards a Gender-Neutral Society",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 183,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Future Parenting: Does Your Child Need a Parent or a Friend?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 185,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Heritage Awareness Program",
+          "activity_desc" : "",
+          "duration" : 150,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 187,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "EduHackathon In collaboration with PLAN X",
+          "activity_desc" : "",
+          "duration" : 240,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 189,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Connections: An open mic evening ",
+          "activity_desc" : "",
+          "duration" : 180,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 191,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "We Need Zero Guns on Campus",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 194,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "We All Should be Afraid of the Cyber Crime Bill",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 196,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "An Evening with Zia Mohyeddin",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 198,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Moving Towards a Gender-Neutral Society",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 200,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Comedy time with Shafat Ali",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 201,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Fashion for the Future: Forecasting Trends",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 203,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Bitsy Brainy Food in collaboration with SCAFA",
+          "activity_desc" : "",
+          "duration" : 120,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 215,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "A Picture is Worth a Thousand Words",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 234,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Who Owns Our Cultural Heritage?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 246,
+          "event_id" : 5,
+          "city_id" : 3,
+          "activity_title" : "Activity Date 1",
+          "activity_desc" : "",
+          "duration" : 40,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 254,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Address by the Chairperson of Beaconhouse School System",
+          "activity_desc" : "",
+          "duration" : 15,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 257,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "A World of Tomorrow Mime",
+          "activity_desc" : "",
+          "duration" : 10,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 260,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "A Forest in your Backyard",
+          "activity_desc" : "",
+          "duration" : 30,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 271,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Recruiting, Interviewing and Retaining Great Resources!",
+          "activity_desc" : "Beenish Khan",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 276,
+          "event_id" : 7,
+          "city_id" : 1,
+          "activity_title" : "Distributed Leadership for Capacity Building",
+          "activity_desc" : "Aisha Shahid",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 208,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Closing Ceremony of A World of Tomorrow Event",
+          "activity_desc" : "",
+          "duration" : 120,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 78,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Setting Directions for A World of Tomorrow",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 123,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Should We Be Afraid of Artificial Intelligence? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 124,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Art Without Boundaries",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 126,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Pakistan`s Education Crisis: The Real Story",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 127,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Break",
+          "activity_desc" : "",
+          "duration" : 20,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 141,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Is Deweaponisation Essential?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 143,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Comedy time with Sanjay Rajoura & Saad Haroon",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 146,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Who Owns Your Words?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 149,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Getting Kids to Read",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 150,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Is Moral Policing Necessary?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 213,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Off the Beaten Track: Stories of Vision and Innovation ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 164,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Whose Heritage is it Anyway?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 166,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Minority Reports: Where do we go from here?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 169,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Moving Towards a Gender-Neutral Society",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 171,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Cyber Crime Bill",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 179,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Beyond the Classroom in collaboration with The History Project",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 188,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Design Thinking Workshop",
+          "activity_desc" : "",
+          "duration" : 90,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 195,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Eye on the Future: The Arts and Popular Culture in a New Age",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 216,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Identity Matters: Beyond Binary Schools",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 217,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "What Your Child is Not Telling You",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 226,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "The Reality of Climate Change?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 233,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Fashion for the Future",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 236,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "The Future of Masculinity",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 252,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : " CPEC and the Future of the Region: Socio-cultural and Economic Perspectives",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 256,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "A World of Tomorrow Short Film Screening",
+          "activity_desc" : "",
+          "duration" : 15,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 273,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Project Based Learning: The True Essence ",
+          "activity_desc" : "Amber Noor Mustafa",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 278,
+          "event_id" : 7,
+          "city_id" : 1,
+          "activity_title" : "Motivating and Retaining Quality Staff",
+          "activity_desc" : "Waqar Haider Awan",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 1,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Educating for Peace: Schooling in an age of conflict   ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 2,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "The Forgotten National Language",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 8,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "How relevant is contemporary education for today’s world?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 10,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "What is Normal? Developmental milestones in young children",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 13,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Growing Up Without Boundaries: The inescapable influence of electronic media on young people",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 17,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "From \"Bol Kay Lab Azaad Hain Tere\" to \"Mein Nahin Maanta\": Insights on Pakistan’s revolutionary poets",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 18,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Nationalism and Identity in Tomorrow’s Schools",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 19,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Making Education Relevant for the Next Generation ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 8
+        },
+        {
+          "activity_id" : 20,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Theatre Production: \nSo NOT a DREAM - A bilingual adaptation of A Midsummer Night’s Dream\n",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 32,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "The Grade Race! The End of Education?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 35,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Should children under 13 be on Facebook? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 54,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Lunch Break",
+          "activity_desc" : "",
+          "duration" : 30,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 56,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Simple Techniques for Maximising Teaching and Learning in Public Schools",
+          "activity_desc" : "",
+          "duration" : 120,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 57,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Theater Production",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 59,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Zambeel Dramatic Readings: Ismat Chughtai kay saath aik shaam",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 61,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Comedy Night",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 63,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Government Schools: Unlocking the potential",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 64,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Politicising Art and Popular Culture Across Borders",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 65,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Parenting: Quality vs Quantity",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 66,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Is Shakespeare still relevant in 21st century education?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 7,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Story as a Vehicle for Learning",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 9,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Freedom of Expression: What sets the boundaries? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 11,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "21st Century Learning from a 3rd Century Perspective",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 23,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Are media and technology controlling global thinking?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 24,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "What Your Child is Not Telling You",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 29,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Art as a Medium of Teaching Across the Curriculum",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 30,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Is handwriting still an important skill?",
+          "activity_desc" : "",
+          "duration" : 50,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 38,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Can public and private education partnerships work? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 39,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Young, Impressionable and Wide-eyed: The influence of adult themes in children’s movies",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 43,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Zambeel",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 48,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Recitation and Translation",
+          "activity_desc" : "",
+          "duration" : 5,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 52,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Registration",
+          "activity_desc" : "",
+          "duration" : 40,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 53,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Tea Break",
+          "activity_desc" : "",
+          "duration" : 30,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 62,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Teaching History and Social Studies in Intercultural Societies",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 71,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Lunch Break",
+          "activity_desc" : "",
+          "duration" : 20,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 12,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Are private schools enablers or dividers? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 115,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Project-Based Learning",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 22,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Is sports a career? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 8
+        },
+        {
+          "activity_id" : 25,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Cybercrime Bill: Blessing or curse?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 117,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "How Grades Affect Learning",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 31,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Do we need schools?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 11
+        },
+        {
+          "activity_id" : 33,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Roles of Graphic Design, Comics and Illustration in Education",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 37,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Gender Inequality: Cross-cultural perceptions of women and men today ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 40,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Emotional Intelligence: Myth or reality     ",
+          "activity_desc" : "",
+          "duration" : 55,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 44,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Bitsy’s Brainfood: Making Healthy Fun   ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 49,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Welcome Address by Chairperson Beaconhouse",
+          "activity_desc" : "",
+          "duration" : 15,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 55,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Break",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 69,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Chief Guest’s Speech",
+          "activity_desc" : "",
+          "duration" : 15,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 3,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Heritage Awareness Programme",
+          "activity_desc" : "",
+          "duration" : 135,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 5,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Brave New Digital World: Dream or nightmare?     ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 6,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Instilling a Culture of Discourse Between Various Stakeholders",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 68,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Test",
+          "activity_desc" : "",
+          "duration" : 50,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 15,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Climate Change: Has the penny  dropped?",
+          "activity_desc" : "",
+          "duration" : 50,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 16,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "How can public schools improve?",
+          "activity_desc" : "",
+          "duration" : 50,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 27,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Is deweaponisation essential?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 28,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Urdu Mar Rahi Hae",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 34,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Is privacy no more a social norm? ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 45,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Keeping Your Child Digitally Safe",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 46,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Homework for Young Children: How much is too much?",
+          "activity_desc" : "",
+          "duration" : 55,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 50,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Surviving Economic Crises through Education",
+          "activity_desc" : "",
+          "duration" : 40,
+          "activity_type_id" : 11
+        },
+        {
+          "activity_id" : 51,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Setting Directions on the Future of Education",
+          "activity_desc" : "",
+          "duration" : 45,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 4,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Robotics and Societies",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 4
+        },
+        {
+          "activity_id" : 36,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Doremon, Dubbed Cartoons and our Children: Cultural invasion redefined ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 41,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Cities of Billboards and Skyscrapers: Impact of economic progress on environment ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 42,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Dastangoi",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 47,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Leaving Behind a Mess: Climate change and our children’s future",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 58,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Dastangoi",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 60,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Short Film Screening",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 67,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Test",
+          "activity_desc" : "",
+          "duration" : 35,
+          "activity_type_id" : 4
+        },
+        {
+          "activity_id" : 70,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Clash of Cultures in Higher Education in Pakistan",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 72,
+          "event_id" : 1,
+          "city_id" : 2,
+          "activity_title" : "Closing remarks - Fireworks - ALI AZMAT live in concert",
+          "activity_desc" : "",
+          "duration" : 110,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 73,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Registrations",
+          "activity_desc" : "",
+          "duration" : 65,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 80,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "The Future of Schooling",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 122,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Off the Beaten Track: Stories of Vision and Innovation",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 131,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Children Under 13 Should Not be on Social Media",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 133,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Freedom of Expression Should have No Boundaries",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 134,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Parenting Styles: Does Your Child Need a Parent or a Friend?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 136,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Javed Jabbar",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 8
+        },
+        {
+          "activity_id" : 137,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Music Matters",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 139,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Who Owns Your Words?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 144,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Music Matters",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 145,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "An Evening with Zia Mohyeddin",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 148,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Identity Matters: Beyond a Binary World",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 154,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Shayeri  Ayk sau Ayk (Poetry 101)",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 157,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Make Your Own Video Game: In-collaboration with We R Play",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 161,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Should Transgender People go to School?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 113,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Should children under 13 be on Facebook?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 162,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Getting Kids to Read",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 167,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Shayeri  Ayk sau Ayk (Poetry 101)",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 174,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Rethinking Forms of Expression",
+          "activity_desc" : "",
+          "duration" : 75,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 175,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "A Forest in Your Backyard",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 176,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Private Affairs: Access to Online Personal Information",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 177,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Sandbags and Razor Wire: Balancing School Security with Student Sanity",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 178,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Harmonising Acts: Managing Home and Work",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 182,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "The Stay-Healthy Platter for my Child",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 12
+        },
+        {
+          "activity_id" : 184,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Foreign Film Festival\nin collaboration with The Little Art",
+          "activity_desc" : "",
+          "duration" : 90,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 186,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Bitsy Brainy Food",
+          "activity_desc" : "",
+          "duration" : 120,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 193,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Moral Policing is Not Part of the Teacher`s Job",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 199,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "The World`s Vanishing People",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 209,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "FULL STEAM",
+          "activity_desc" : "",
+          "duration" : "",
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 210,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Setting Directions",
+          "activity_desc" : "",
+          "duration" : "",
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 221,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Drug Abuse in the Youth: Perception and Reality",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 218,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Cities of Tomorrow",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 219,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Women in Sports",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 222,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Learning Without Limits: Creating Inclusive Classrooms ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 223,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "The Other Side",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 238,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "No Land for Refugees ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 267,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Connective Learning: The Leader`s Vision",
+          "activity_desc" : "Komal Farooq / Neelam Tariq",
+          "duration" : 60,
+          "activity_type_id" : 16
+        },
+        {
+          "activity_id" : 244,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Puppetry by Farooq Qaiser",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 245,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Bitsy Brainy Food in Association with Tuscany Courtyard",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 15
+        },
+        {
+          "activity_id" : 248,
+          "event_id" : 5,
+          "city_id" : 3,
+          "activity_title" : "Activity Date 3",
+          "activity_desc" : "",
+          "duration" : 40,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 268,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Active Listening for Optimum Results",
+          "activity_desc" : "Fareeha Ahmed",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 270,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "The Difficult Conversations",
+          "activity_desc" : "Seema Rashid",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 128,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Sports as a Career: What`s Your Game Plan?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 153,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Minority Reports: Where do we go from here?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 168,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Team Talk: Spotlight on the Pakistan Women`s Football Team",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 181,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Stories Unheard: History in the Modern Age",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 192,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Cities of Tomorrow",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 197,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Ways of Saying: Reimagining Forms of Expression",
+          "activity_desc" : "",
+          "duration" : 75,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 202,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Comedy time with Shafat Ali and Waheed ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 205,
+          "event_id" : 2,
+          "city_id" : 3,
+          "activity_title" : "Screening of `A World of Tomorrow` (short film)",
+          "activity_desc" : "",
+          "duration" : 15,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 211,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Nationalism and Identity in Tomorrow`s Schools",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 214,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Are We Good Parents?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 220,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Smart Technology is Making Us Unsmart",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 224,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Comedy Session",
+          "activity_desc" : "",
+          "duration" : 30,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 225,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "The Exciting World of Innovation",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 227,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Hamari Zabaan, Hamari Pehchaan",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 228,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "STEAM - Teaching it Well ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 229,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Global Media in a Post-truth Era",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 230,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Art Without Boundaries",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 231,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "The Future of Schooling",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 232,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Working Men: Harmonising Home and Work ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 7
+        },
+        {
+          "activity_id" : 235,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Minority Reports: Where do we go from here?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 237,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "The Good, Bad and Ugly of Social Media ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 239,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Your Children`s Online and Offline Safety ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 240,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Music Matters",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 241,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Education Reform In Pakistan: Separating Reality From Rhetoric ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 242,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Aid for Pakistan? No Thanks ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 5
+        },
+        {
+          "activity_id" : 247,
+          "event_id" : 5,
+          "city_id" : 3,
+          "activity_title" : "Activity Date 2",
+          "activity_desc" : "",
+          "duration" : 40,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 249,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Keynote Speech by Lesley Hazleton",
+          "activity_desc" : "",
+          "duration" : 20,
+          "activity_type_id" : 11
+        },
+        {
+          "activity_id" : 250,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Setting Directions for A World of Tomorrow Event",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 251,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Meet the Pakistan Women`s Cricket Team",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 253,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Registration",
+          "activity_desc" : "",
+          "duration" : 55,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 259,
+          "event_id" : 4,
+          "city_id" : 1,
+          "activity_title" : "Puppetry by Farooq Qaiser ",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 262,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "It is the little things done right!",
+          "activity_desc" : "Iram Naqvi",
+          "duration" : 60,
+          "activity_type_id" : 16
+        },
+        {
+          "activity_id" : 272,
+          "event_id" : 6,
+          "city_id" : 3,
+          "activity_title" : "Experiential Learning: The Reggio Emilia Approach",
+          "activity_desc" : "Zoona Khan",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 275,
+          "event_id" : 7,
+          "city_id" : 1,
+          "activity_title" : "PBL – An Approach to Teaching and Learning",
+          "activity_desc" : "Ayesha Kasuri",
+          "duration" : 60,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 279,
+          "event_id" : 10,
+          "city_id" : 3,
+          "activity_title" : "Activity 1",
+          "activity_desc" : "",
+          "duration" : 480,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 285,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The Evolving World of Communication \t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 283,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Sustaining our Future: Beyond the Buzzword\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 288,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Water, water everywhere...\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 297,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Dance",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 294,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Visual Worlds: Images as Expression\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 296,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The Power of Add-venture\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 298,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Conscience and Consciousness: Ethics in AI\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 299,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "#MeToo & Beyond\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 301,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The Wellbeing Huddle\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 4
+        },
+        {
+          "activity_id" : 325,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "There is no Truth, Just Narratives\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 304,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Where did my money go? The Future of Money",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 305,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Contemporary Art: Reimagining forms and materials\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 306,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "\"It`s all in your head\": Talking about mental health\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 307,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Is democracy always the best form of government?",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 321,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Brands 4 Bands: Corporate music-making\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 323,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Comedy Night with Shafaat Ali\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 3
+        },
+        {
+          "activity_id" : 331,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Shaping the Future of Learning\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 333,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Television: The New Cinema",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 335,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Making Mavericks: Entrepreneurs of Tomorrow",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 338,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The Colours of Movement",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 18
+        },
+        {
+          "activity_id" : 280,
+          "event_id" : 11,
+          "city_id" : 1,
+          "activity_title" : "Beaconhouse Margalla Campus Islamabad - Open Day",
+          "activity_desc" : "",
+          "duration" : 480,
+          "activity_type_id" : 10
+        },
+        {
+          "activity_id" : 282,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Be the Change\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 17
+        },
+        {
+          "activity_id" : 281,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The Fourth Industrial Revolution",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 284,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Future Leaders: Perspectives on  Leadership in Education\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 286,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Freedom of Expression: Where do we draw the line?\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 287,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Building the Future: Architectural heritage\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 293,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Impact of technology on young minds\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 289,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Navigating Global Surveillance Societies\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 290,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Who Do You Think You Are? Diversity in Identity \t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 291,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Future Fashion\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 17
+        },
+        {
+          "activity_id" : 292,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Living Spaces: Rethinking Urban Design \t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 295,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Better futures with community spaces\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 300,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "A fearless future\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 303,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The Future of Learning\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 314,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Climate Realities",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 311,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Open Space sessions`",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 9
+        },
+        {
+          "activity_id" : 312,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "You decide but we experience - our future but your plans",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 315,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Cultural Heritage: Safeguarding the Intangible",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 316,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The Whole Truth (There is no Truth; Just Narratives)",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 317,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Digital Nomads\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 318,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Is national harmony dependent on a uniform curriculum?\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 319,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "A Candid look at the film Industry\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 320,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "V-sports and e-sports: The death of `real` sports?\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 322,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Know Your Rights\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 324,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Cultural Heritage: Safeguarding the Intangible \t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 339,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Comedy Night with Shafaat Ali",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 18
+        },
+        {
+          "activity_id" : 327,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Yahaan toh baat karnay ko tarasti hae zubaan meri\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 328,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The App Generation: Technology and Young Minds",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 2
+        },
+        {
+          "activity_id" : 329,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Our Future: Hopes, Fears and Dreams\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        },
+        {
+          "activity_id" : 330,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "Changing Worlds",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 8
+        },
+        {
+          "activity_id" : 336,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "No Time to Sleep: The Right to Life?\t\t",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 14
+        },
+        {
+          "activity_id" : 337,
+          "event_id" : 13,
+          "city_id" : 2,
+          "activity_title" : "The Fourth Industrial Revolution",
+          "activity_desc" : "",
+          "duration" : 60,
+          "activity_type_id" : 1
+        }
+      ]
+    }
+  ]
+}

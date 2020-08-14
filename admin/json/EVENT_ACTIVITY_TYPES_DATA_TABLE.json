@@ -1,0 +1,140 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "ACTIVITY_TYPE_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "ACTIVITY_DESC",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "ENTRY_USER_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "CREATE_DATE",
+          "type" : "DATE"
+        }
+      ],
+      "items" : [
+        {
+          "activity_type_id" : 16,
+          "activity_desc" : "Collaborative Roundtables",
+          "entry_user_id" : "",
+          "create_date" : ""
+        },
+        {
+          "activity_type_id" : 1,
+          "activity_desc" : "Panel Discussion",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 2,
+          "activity_desc" : "Presentation with Q&A",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 3,
+          "activity_desc" : "Activity",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 4,
+          "activity_desc" : "Interactive Workshop",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 5,
+          "activity_desc" : "Debate",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 6,
+          "activity_desc" : "Creative Writing",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 7,
+          "activity_desc" : "Gymboree Talks: Panel Discussion",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 8,
+          "activity_desc" : "In conversation with:",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 9,
+          "activity_desc" : "Interactive Session",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 10,
+          "activity_desc" : "Workshop",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 11,
+          "activity_desc" : "Keynote Speech",
+          "entry_user_id" : 25591,
+          "create_date" : "20-OCT-15"
+        },
+        {
+          "activity_type_id" : 14,
+          "activity_desc" : "Presentations",
+          "entry_user_id" : "",
+          "create_date" : ""
+        },
+        {
+          "activity_type_id" : 12,
+          "activity_desc" : "Gymboree Talks: Presentation",
+          "entry_user_id" : "",
+          "create_date" : ""
+        },
+        {
+          "activity_type_id" : 13,
+          "activity_desc" : "Gymboree Talks: Debate",
+          "entry_user_id" : "",
+          "create_date" : ""
+        },
+        {
+          "activity_type_id" : 15,
+          "activity_desc" : "Gymboree Talks",
+          "entry_user_id" : "",
+          "create_date" : ""
+        },
+        {
+          "activity_type_id" : 17,
+          "activity_desc" : "SOT Infinity",
+          "entry_user_id" : 18776,
+          "create_date" : "27-SEP-18"
+        },
+        {
+          "activity_type_id" : 18,
+          "activity_desc" : "Entertainment",
+          "entry_user_id" : 18776,
+          "create_date" : "19-OCT-18"
+        },
+        {
+          "activity_type_id" : 19,
+          "activity_desc" : "Performance",
+          "entry_user_id" : 18776,
+          "create_date" : "19-OCT-18"
+        }
+      ]
+    }
+  ]
+}

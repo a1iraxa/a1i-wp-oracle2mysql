@@ -1,0 +1,233 @@
+{
+  "results" : [
+    {
+      "columns" : [
+        {
+          "name" : "LOCATION_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "CITY_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "LOCATION_NAME",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "STATUS",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "G_LAT",
+          "type" : "NVARCHAR2"
+        },
+        {
+          "name" : "G_LONG",
+          "type" : "NVARCHAR2"
+        },
+        {
+          "name" : "EVENT_ID",
+          "type" : "NUMBER"
+        },
+        {
+          "name" : "MAIN_LOCATION",
+          "type" : "VARCHAR2"
+        },
+        {
+          "name" : "FLOORPLAN_IMAGE",
+          "type" : "VARCHAR2"
+        }
+      ],
+      "items" : [
+        {
+          "location_id" : 18,
+          "city_id" : 1,
+          "location_name" : "Islamabad",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 22,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 6,
+          "city_id" : 1,
+          "location_name" : "Pak-China Friendship Centre",
+          "status" : "Y",
+          "g_lat" : "33.697434",
+          "g_long" : "73.085142",
+          "event_id" : 4,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 9,
+          "city_id" : 1,
+          "location_name" : "Beaconhouse National College Fair 2017, Islamabad",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 9,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 5,
+          "city_id" : 3,
+          "location_name" : "Pearl-Continental Hotel",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 3,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 8,
+          "city_id" : 3,
+          "location_name" : "Pearl-Continental Hotel",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 8,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 1,
+          "city_id" : 3,
+          "location_name" : "Royal Palm Golf & Country Club",
+          "status" : "Y",
+          "g_lat" : "31.558059",
+          "g_long" : "74.362417",
+          "event_id" : 2,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 2,
+          "city_id" : 3,
+          "location_name" : "TNS Beaconhouse DHA",
+          "status" : "Y",
+          "g_lat" : "31.464399",
+          "g_long" : "74.393551",
+          "event_id" : 2,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 3,
+          "city_id" : 3,
+          "location_name" : "Beaconhouse Newlands ",
+          "status" : "Y",
+          "g_lat" : "31.481848",
+          "g_long" : "74.458780",
+          "event_id" : 2,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 4,
+          "city_id" : 3,
+          "location_name" : "Beaconhouse Liberty Campus",
+          "status" : "Y",
+          "g_lat" : "31.510997",
+          "g_long" : "74.350528",
+          "event_id" : 2,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 7,
+          "city_id" : 3,
+          "location_name" : "A’Level Johar Town Branch",
+          "status" : "Y",
+          "g_lat" : "31.470630",
+          "g_long" : "74.290857",
+          "event_id" : 5,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 12,
+          "city_id" : 1,
+          "location_name" : "Beaconhouse Potohar Campus Rawalpindi",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 11,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 14,
+          "city_id" : 2,
+          "location_name" : "Beach Luxury",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 13,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 10,
+          "city_id" : 3,
+          "location_name" : "A’Level Johar Town Branch",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 10,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 13,
+          "city_id" : 3,
+          "location_name" : "Beaconhouse Newlands",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 12,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 15,
+          "city_id" : 1,
+          "location_name" : "Beaconhouse National College Fair 2018, Islamabad",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 14,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 16,
+          "city_id" : 2,
+          "location_name" : "Beaconhouse National College Fair 2018, Karachi",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 16,
+          "main_location" : "",
+          "floorplan_image" : ""
+        },
+        {
+          "location_id" : 17,
+          "city_id" : 3,
+          "location_name" : "Beaconhouse National College Fair 2018, Lahore",
+          "status" : "Y",
+          "g_lat" : "",
+          "g_long" : "",
+          "event_id" : 15,
+          "main_location" : "",
+          "floorplan_image" : ""
+        }
+      ]
+    }
+  ]
+}
